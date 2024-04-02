@@ -111,7 +111,8 @@ plt.show()
 
 
 ### SOBEL X AXIS :
-![1](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/caff429f-d2c7-435c-a9bc-2aa684506114)
+![image](https://github.com/Ragu-123/EDGE-DETECTION/assets/113915622/5e9b49cd-01f9-42fa-bd74-9477ee58e540)
+
 
 
 
@@ -119,25 +120,26 @@ plt.show()
 
 ### SOBEL Y AXIS :
 
-![2](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/cbfcfc0b-b68e-470b-8ec1-ff0e39eabfa8)
+![image](https://github.com/Ragu-123/EDGE-DETECTION/assets/113915622/243bf74b-f7ae-446f-a607-4456866e1619)
+
 
 
 
 ### SOBEL XY AXIS :
 
-![3](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/c1919680-18ed-47f7-9ea8-6e1c614d59f5)
+![image](https://github.com/Ragu-123/EDGE-DETECTION/assets/113915622/28d02b60-3519-4906-9668-70c4c1c7a316)
 
 
 
 ### LAPLACIAN EDGE DETECTOR :
 
-![4](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/38f15bf9-0de6-4624-84d0-ab9934908883)
+![image](https://github.com/Ragu-123/EDGE-DETECTION/assets/113915622/cc498ce9-a9a1-4d0d-a131-2fc0e47a883d)
 
 
 
 ### CANNY EDGE DETECTOR :
 
-![5](https://github.com/IamShakthi/EDGE-DETECTION/assets/117913445/ce080b28-13ea-47af-8f2f-42fdc9c4bbdf)
+![image](https://github.com/Ragu-123/EDGE-DETECTION/assets/113915622/6d7f7d0e-b4f8-4e40-bd92-d3b886808073)
 
 
 ## Result:
